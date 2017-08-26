@@ -1,6 +1,6 @@
 #!/bin/bash
 # Função: Alterar o arquivo de configuração do bashrc para a configuração da foto
-# Desenvolvedor: Yuri Juliano
+# Desenvolvedor: Yuri Boeira
 # SO: Debian 8
 
 if [[ $1 == "--help" ]]
